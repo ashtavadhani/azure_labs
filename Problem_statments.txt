@@ -1,4 +1,7 @@
 (https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_03a-Manage_Azure_Resources_by_Using_the_Azure_Portal.html)
-Created resource groups and deployed resources to resource groups
-Moved resources between resource groups
-Implemented and tested resource locks
+1]
+Creat resource groups and deploy resources to resource groups
+Move resources between resource groups
+Implement and test resource locks
+
+2]
